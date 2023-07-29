@@ -9,6 +9,6 @@ This makes it easier for piano players to navigate the 2-5-1 progression and imp
 
 **RIGHT HAND NOTES HAVE ONLY A COLOR CIRCLE.**
 
-**LEFT HAND NOTES HAVE ALSO A SMALL YELLOW CIRCLE INSIDE OF THE COLOR CIRCLE.**
+**LEFT HAND NOTES HAVE ALSO A SMALL YELLOW CIRCLE INSIDE**
 
 ![Texto alternativo](GITHUB251.PNG)
