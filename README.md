@@ -5,3 +5,4 @@ The user simply needs to input the tonic note, and the program will then display
 This makes it easier for piano players to navigate the 2-5-1 progression and improve their playing experience
 RIGHT HAND NOTES HAVE ONLY A COLOR CIRCLE. 
 LEFT HAND NOTES HAVE ALSO A SMALL YELLOW CIRCLE INSIDE OF THE COLOR CIRCLE.
+![Texto alternativo](2-5-1/GITHUB%20251.png)
